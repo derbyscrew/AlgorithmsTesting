@@ -1,0 +1,23 @@
+{
+  "name": "AlgorithmTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derbyscrew/AlgorithmsTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derbyscrew/AlgorithmsTesting/issues"
+  },
+  "homepage": "https://github.com/derbyscrew/AlgorithmsTesting#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
